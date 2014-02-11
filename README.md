@@ -1,4 +1,6 @@
-first_app
-=========
+#Ruby on Rails Tutorial: first application
 
-First app for Ruby on Rails tutorial
+
+=========
+This is the first application for the [*Ruby on Rails Tutorial*](http://railstutorial.org/) by [Malea Shelline](http://mmshelline.com/)
+
